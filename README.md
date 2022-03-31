@@ -1,2 +1,3 @@
-# fabitnex_fontend
+# fabitnex fontend
+# fabitnex.com
 Fabitnex cryptocurrency exchange
